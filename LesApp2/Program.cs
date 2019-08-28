@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// ручна реалізація ініціалізації властивостей структури
+
 namespace LesApp2
 {
     class Program
